@@ -1,1 +1,18 @@
+Exercicio 1. Criar um programa que leia o preço de um ingresso para o Teatro e faça uma pergunta se o usuário é Estudante (Sim ou Não).
+Apresentar o valor a ser pago pelo ingresso, sabendo que, se o mesmo for estudante, ele terá um desconto de 50% no valor do ingresso.
+Caso ele não seja estudante, terá que pagar o valor integral do ingresso.
 
+Exercicio 2. Criar um programa que leia o preço de um produto, calcule e apresente o valor com desconto conforme tabela:
+    Preço produto              Desconto Valor       final com desconto
+    Até R$ 100,00                     -              = preço do produto
+    Acima de 100 até R$ 500          5%
+    Acima de 500 até R$ 1000         10%
+    Acima de 1000 até R$2000         15%
+    Acima de R$ 2000                 20%
+
+Exercicio 3.  Criar um programa que calcule o custo total de uma viagem sabendo que ele será calculado da seguinte forma
+(os valores devem ser fornecidos pelo usuário).
+    · Preço da passagem
+    · Vai despachar bagagem? Se sim, ler a quantidade de volumes pois para cada volume é cobrado R$ 90,00
+    · Quer marcar o assento? Caso sim, será cobrada uma taxa de R$ 60,00
+Apresentar ao final o custo total da viagem.
