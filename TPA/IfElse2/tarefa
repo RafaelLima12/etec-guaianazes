@@ -1,1 +1,10 @@
+Exercicio 1. Criar um programa que leia o salário de um usuário e informe se o salario lido está abaixo ou acima do salário mínimo, 
+que atualmente é de R$ 954,00.
 
+Exercicio 2. Criar um programa que leia um número i informe se o mesmo é neutro(zero), positivo ou negativo.
+
+Exercicio 3. Criar um programa que leia uma temperatura em Fahrenheit e converta-a em graus celsius. Apresentar a temperatura convertida,
+junto com a mensagem indicada.
+      I. Se a temperatura estiver abaixo de 15°C:"FRIO"
+      II. Se a temperatura estiver igual ou acima de 15° e abaixo de 22°C:"AMENO"
+      III. Se a temperatura estiver igual ou acima de 22°C:"CALOR"
