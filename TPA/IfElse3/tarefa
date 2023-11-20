@@ -1,1 +1,62 @@
+Exercicio 1. Criar um programa que leia o ano de nascimento de um usuário e o ano atual. Calcule e apresente a sua idade junto
+com mensagem correspondente:
+      iv. Idade < 10 anos: criança;
+      v. Idade >=10 e < 18: Adolescente;
+      vi. Idade >=18 e Idade <60: Adulto;
+      vii. Idade >=60 : Idoso.
 
+Exercicio 2. Criar um programa que calcule e apresente o gasto médio de combustível (km por litro –km/L) de um veículo.
+O usuário deverá digitar a distância percorrida (em Kilômetros) e a capacidade do tanque de combustível (em litros).
+O gasto médio é obtido dividindo-se a distância percorrida pela capacidade do tanque. Informar se o carro é econômico ou não,
+segundo a regra abaixo:
+    a. Se o consumo for >=10 km/L: Econômico
+    b. Se o consumo < 10 km/L: Não econômico
+
+Exercicio 3. Criar um programa que leia o peso e a altura de um usuário. Informar o seu IMC junto com a respectiva condição:
+        IMC          CLASSIFICAÇÃO:
+       < 18,5         Excesso de Magreza
+      18,5 - 25       Peso Normal
+      25 - 30         Excesso de Peso
+      30 - 35         Obesidade (Grau I)
+      35 - 40         Obesidade (Grau II)
+      > 40            Obesidade (Grau III)
+
+Exercicio 4. Criar um programa que leia os valores A, B e C de uma equação de segundo grau(Ax2+BX+C).
+Calcular as duas raízes reais de X lembrando que:
+  • Se ∆ < 0: não existem raízes reais para a equação;
+  • Se ∆ = 0: existe apenas uma raiz real para a equação;
+  • Se ∆ > 0: existem duas raízes reais para a equação.
+Fórmulas: 
+∆ = B2
+-4*A*C
+Bhaskara: (- B± √ ∆ )/ (2*A
+
+Exercicio 5. Criar um programa que leia 3 valores A, B e C para um possível triângulo e informe o tipo de triângulo lido.
+Verificar ainda se as medidas formam um triângulo segundo a lei:
+- Para que se possa formar um triângulo é necessário que a medida de qualquer um dos 
+lados seja menor que a soma das medidas dos outros dois.
+  Triângulo Eqüilátero: Três lados iguais;
+  Triângulo Escaleno: Três lados diferentes;
+  Triângulos Isósceles: Dois lados iguais e um lado diferente.
+
+Exercicio 6. Criar um programa que leia três valores inteiros A, B e C e os apresente em forma crescente (menor para o maior).
+
+Exercicio 7. Criar um programa que leia o nome e a idade de 5 usuários. Ao final apresente o nome e a idade do usuário mais velho
+e o nome e a idade do usuário mais novo.
+
+Exercicio 8. Criar um programa que leia duas notas para um aluno. Calcular e apresentar a suamédia, sendo que:
+  • SE a média for menor do que 3 o aluno está REPROVADO;
+  • SE a média for >=6 o aluno está APROVADO;
+  • SE a média for >=3 e < 6 avisar via mensagem que o aluno está em EXAME. Solicitar  então uma nota de EXAME,
+  extrair uma nova média entre a média anterior e a nota de  EXAME. Caso a nova média seja >=6 o aluno será APROVADO.
+  Caso contrário está reprovado.
+
+Exercicio 9.  Criar um programa que leia o salário de um empregado e apresente o desconto do IRPF segundo a tabela abaixo:
+  Base de cálculo mensal em R$       Alíquota %       Parcela a deduzir do imposto em R$
+  Até 1.434,59                           -                             -
+  De 1.434,60 até 2.150,00              7,5                         107,59
+  De 2.150,01 até 2.866,70              15,0                        268,84
+  De 2.866,71 até 3.582,00              22,5                        483,84
+  Acima de 3.582,00                     27,5                        662,94
+
+  Exemplo: Se o salário lido for igual a R$ 4000,00 o cálculo será: IRPF ← 4000*27.5/100 - 662,94.
